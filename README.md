@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/gaga1313?tab=repositories](https://github.com/gaga1313?tab=repositories)
 
-- 💬 Ask me about **Computer Vision, Machine Learning, Foundation models, Diffusion Models, Adversarial Networks**
+- 💬 Ask me about **Computer Vision, Machine Learning, Foundation models, Diffusion Models, Generative Adversarial Networks**
 
 - 📫 How to reach me **gaurav_suhas_gaonkar@brown.edu**
 
