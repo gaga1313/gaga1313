@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on **Out of Distribution generalization of foundation models and building effective solution to add Long Range Dependency in vision models**
 
-- 🌱 I’m currently learning **Long Range Dependencies for building SOTA Computer Vision Networks**
-
-- 👯 I’m looking for full time Summer 2024 Internships in **Software Engineer and Machine Learning Roles**
+- 🌱 I’m working on representation learning in foundational vision models.
 
 - 👨‍💻 All of my projects are available at [https://github.com/gaga1313?tab=repositories](https://github.com/gaga1313?tab=repositories)
 
