@@ -1,19 +1,10 @@
 <h1 align="center">Hi 👋, I'm Gaurav Gaonkar</h1>
-<h3 align="center">A passionate Computer Vision Engineer and Autonomous Vehicle Enthusiast</h3>
-
-- 🔭 I’m currently working on **Out of Distribution generalization of foundation models and building effective solution to add Long Range Dependency in vision models**
-
-- 🌱 I’m working on representation learning in foundational vision models.
 
 - 👨‍💻 All of my projects are available at [https://github.com/gaga1313?tab=repositories](https://github.com/gaga1313?tab=repositories)
 
 - 💬 Ask me about **Computer Vision, Machine Learning, Foundation models, Diffusion Models, Generative Adversarial Networks**
 
-- 📫 How to reach me **gaurav_suhas_gaonkar@brown.edu**
-
 - 📄 Know about my experiences [https://gauravgaonkar.netlify.app/](https://gauravgaonkar.netlify.app/)
-
-- ⚡ Fun fact **Love Reading Papers and Code Late Night**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
